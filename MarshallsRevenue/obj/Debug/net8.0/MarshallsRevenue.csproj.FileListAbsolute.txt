@@ -1,0 +1,14 @@
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\bin\Debug\net8.0\MarshallsRevenue.exe
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\bin\Debug\net8.0\MarshallsRevenue.deps.json
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\bin\Debug\net8.0\MarshallsRevenue.runtimeconfig.json
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\bin\Debug\net8.0\MarshallsRevenue.dll
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\bin\Debug\net8.0\MarshallsRevenue.pdb
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.AssemblyInfoInputs.cache
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.AssemblyInfo.cs
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.csproj.CoreCompileInputs.cache
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.dll
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\refint\MarshallsRevenue.dll
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.pdb
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.genruntimeconfig.cache
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\ref\MarshallsRevenue.dll
