@@ -12,3 +12,4 @@ D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\refint\Ma
 D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.pdb
 D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.genruntimeconfig.cache
 D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\ref\MarshallsRevenue.dll
+D:\ServicesByIEO\Freelancing Work\C#\MarshallsRevenue\obj\Debug\net8.0\MarshallsRevenue.sourcelink.json
